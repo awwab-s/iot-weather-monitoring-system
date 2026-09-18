@@ -5,8 +5,8 @@
 #include <PubSubClient.h>
 
 // WiFi Settings
-const char* ssid = "FSQUARE";
-const char* password = "rochelle";
+const char* ssid = "REMOVED";
+const char* password = "REMOVED";
 
 // MQTT broker settings
 const char* mqtt_server = "broker.emqx.io";  // Use EMQX broker
